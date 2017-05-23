@@ -1,0 +1,5 @@
+C:\Users\家烽\Desktop\CS282-Homeworks\Solution1\Example02\bin\Debug\Example02.exe.config
+C:\Users\家烽\Desktop\CS282-Homeworks\Solution1\Example02\bin\Debug\Example02.exe
+C:\Users\家烽\Desktop\CS282-Homeworks\Solution1\Example02\bin\Debug\Example02.pdb
+C:\Users\家烽\Desktop\CS282-Homeworks\Solution1\Example02\obj\Debug\Example02.exe
+C:\Users\家烽\Desktop\CS282-Homeworks\Solution1\Example02\obj\Debug\Example02.pdb
