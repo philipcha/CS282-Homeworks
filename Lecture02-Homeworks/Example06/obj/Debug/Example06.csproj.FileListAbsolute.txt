@@ -1,0 +1,6 @@
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\obj\Debug\Example06.csprojResolveAssemblyReference.cache
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\bin\Debug\Example06.exe.config
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\bin\Debug\Example06.exe
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\bin\Debug\Example06.pdb
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\obj\Debug\Example06.exe
+C:\Users\家烽\Desktop\CS282-Homeworks\Lecture02-Homeworks\Example06\obj\Debug\Example06.pdb
